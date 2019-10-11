@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BE53-7B8D
+
+ Directory of C:\Users\20124199\Desktop\Sample Java
+
+11-10-2019  16:52    <DIR>          .
+11-10-2019  16:52    <DIR>          ..
+11-10-2019  16:46               434 HelloWorld.class
+11-10-2019  11:04               173 HelloWorld.java
+11-10-2019  16:42               460 readme.txt
+11-10-2019  16:52                 0 test.txt
+               4 File(s)          1,067 bytes
+               2 Dir(s)  88,189,358,080 bytes free
